@@ -1,5 +1,31 @@
 # Power-BI
 Blinkit Data Analysis Dashboard
+
+## Portfolio
+
+View the portfolio website: https://ranjeetsharma094-ai.github.io/Power-BI/
+
+The site is a static page in `index.html`. It includes project details, skills, experience, and links to the Power BI report and Excel source data.
+
+## Publish with GitHub Pages
+
+1. Push the repository contents to the `main` branch on GitHub.
+2. Open the repository's **Settings → Pages**.
+3. Under **Build and deployment**, select **Deploy from a branch**.
+4. Select branch **main** and folder **/(root)**, then click **Save**.
+5. Wait for the Pages deployment to finish. The portfolio URL is https://ranjeetsharma094-ai.github.io/Power-BI/.
+
+## Submit to Google Search
+
+1. Confirm the GitHub Pages site is public and opens without signing in.
+2. Add the portfolio URL as a **URL prefix** property in [Google Search Console](https://search.google.com/search-console/), then verify ownership. HTML file verification is suitable for this static site; upload Google's verification file to the repository root and push it to `main`.
+3. In Search Console, open **Sitemaps** and submit `https://ranjeetsharma094-ai.github.io/Power-BI/sitemap.xml`.
+4. Use **URL Inspection** to request indexing for the portfolio homepage.
+
+Google decides when and whether to index a page; submission is not a guarantee of search ranking. The phone numbers and email shown on the site are public once the repository and Pages site are public.
+
+## Dashboard Project
+
 Project Overview
 This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 Key Performance Indicators (KPIs)
